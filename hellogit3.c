@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 int main(int argc, char **argv) {
-	puts("Helo git 3!");
+	puts("Hello git 3! V2");
 }
