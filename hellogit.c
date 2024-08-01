@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(int argc, char **argv) {
-	puts("new hello git");
+	puts("New Hello Git!");
 	return 0;
 }
